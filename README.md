@@ -14,4 +14,4 @@ Program akan memberi clue jika angka yang dimasukkan lebih besar/kecil.
 
 Link hasil program: https://drive.google.com/drive/folders/1TYZtL3_o7J5awEeJZrTcCrjzimsIext1?usp=sharing
 
-Link YouTube: 
+Link YouTube: https://www.youtube.com/watch?v=0WD4rEsPULM
