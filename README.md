@@ -7,10 +7,11 @@ Anggota:
 5. Mario Jeconiah Purba (241401046)
 
 # Deskripsi
-Program ini adalah program game lotre gosok diigital yang dibuat dan dijalankan di vscode dengan bahasa pemrograman C++.
-Program akan memilih 2 kotak dari 20 dalam papan 4 baris dan 5 kolom sebagai bom.
-User/Pemain akan terus diminta untuk memasukkan koordinat sampai pemain memilih kotak berisi bom yang artinya pemain kalah, atau memilih semua kotak yang bukan bom yang artinya pemain menang
+Program ini adalah program game menebak yang dibuat dan dijalankan di vscode dengan bahasa pemrograman C++.
+Program akan memilih 1 angka dari 1-100 sebagai angka yang harus ditebak.
+User/Pemain akan terus diminta untuk memasukkan angka sampai memasukkan angka target.
+Program akan memberi clue jika angka yang dimasukkan lebih besar/kecil.
 
 Link hasil program: https://drive.google.com/drive/folders/1TYZtL3_o7J5awEeJZrTcCrjzimsIext1?usp=sharing
 
-Link YouTube: https://youtu.be/P6csoGfkUc4
+Link YouTube: 
