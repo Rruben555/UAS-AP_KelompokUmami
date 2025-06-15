@@ -13,4 +13,4 @@ User/Pemain akan terus diminta untuk memasukkan koordinat sampai pemain memilih 
 
 Link hasil program: https://drive.google.com/drive/folders/1TYZtL3_o7J5awEeJZrTcCrjzimsIext1?usp=sharing
 
-Link YouTube: 
+Link YouTube: https://youtu.be/P6csoGfkUc4
